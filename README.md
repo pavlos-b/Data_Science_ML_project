@@ -1,5 +1,5 @@
 # Data_Science_ML_project
-A Data Science and Machine Learning project using Python. 
+A Data Science and Machine Learning project using Python predicting whether a borrower defaulted. 
 
 In this Jupyter Notebook we will be using a subset of the LendingClub DataSet obtained from Kaggle: https://www.kaggle.com/wordsforthewise/lending-club
 
